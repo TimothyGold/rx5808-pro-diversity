@@ -1,0 +1,7 @@
+src/rx5808-pro-diversity/Debug/
+src/rx5808-pro-diversity/Release/
+*.sln
+*.suo
+*.vcxproj
+src/rx5808-pro-diversity/rx5808-pro-diversity.vcxproj.filters
+src/rx5808-pro-diversity/__vm/
